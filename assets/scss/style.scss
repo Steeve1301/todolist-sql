@@ -1,0 +1,12 @@
+body{
+    background-image: url("../img/background.jpg");
+    & form{
+        background:white;
+    }
+}
+
+.draggable.dragging{
+    opacity: .8;
+    background:rgb(231, 225, 225);
+    cursor: pointer;
+}

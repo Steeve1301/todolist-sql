@@ -1,1 +1,14 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  background-image: url("../img/background.jpg");
+}
+
+body form {
+  background: white;
+}
+
+.draggable.dragging {
+  opacity: .8;
+  background: #e7e1e1;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
